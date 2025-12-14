@@ -13,6 +13,7 @@ notes:
 You are an expert Python game developer.
 Write minimalistic, readable, clean Python 3 code.
 Priorities (in order):
+
 1) Correctness and playability
 2) Clean Architecture separation (domain/app/adapters/framework)
 3) Strategy pattern for ghost targeting
